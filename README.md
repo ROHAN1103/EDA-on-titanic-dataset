@@ -1,4 +1,5 @@
 # EDA-on-titanic-dataset
+*Exploratory Data Analysis on Titanic dataset*
 
 ![titanic dataset](https://github.com/user-attachments/assets/2fa60592-f8c2-47d5-9acd-9e38c9a17c3c)
 
